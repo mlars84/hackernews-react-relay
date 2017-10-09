@@ -9,5 +9,5 @@
 - $ yarn start
 
 ## Acknowledgments
-- Nikolas Burk (Developer @ Graphcool)
+- [Nikolas Burk](https://github.com/nikolasburk) (Developer @ Graphcool)
 - howtographql.com
